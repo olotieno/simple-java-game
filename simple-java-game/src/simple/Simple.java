@@ -146,7 +146,7 @@ System.out.println("\t\t     ");
           for(int clr=1;clr<=25;clr++){
           System.out.println("");}
           System.out.println("++++++++++++++++++++++++++");
-          System.out.println("+   Enter Your choice    +");
+          System.out.println("+   Enter Your A single choice    +");
           System.out.println("++++++++++++++++++++++++++");
           System.out.println("+ 1.Play                 +");
           System.out.println("++++++++++++++++++++++++++");
